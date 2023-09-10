@@ -13,8 +13,10 @@
 
 
 **Процесс лазерной резки фанерного листа**
+
 https://github.com/Darya-Akhiyarova/Organizer-1/assets/144244924/c71e8a2c-d4be-47ab-906f-7705b0cd274a
 
 **Шкатулка после сборки**
-![image](пикча 1.jpg) 
-(пикча 2.jpg)
+
+![image](пикча1.jpg)
+![image](пикча2.jpg)
